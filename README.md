@@ -1,16 +1,16 @@
-# eventapp
+# EventApp
 
-A new Flutter project.
+Round 2 Interview Project
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![compressed2903202300174025](https://user-images.githubusercontent.com/31253617/228338258-46a52a02-41d7-4e92-b564-66359cc84b7d.jpg)
+![compressed2903202300174899](https://user-images.githubusercontent.com/31253617/228338299-55dc5882-5601-4193-b965-14666e79052e.jpg)
+![compressed290320230018005](https://user-images.githubusercontent.com/31253617/228338322-5ceb0dc6-428e-4d13-a98e-60a9916d4a7b.jpg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Packages Used
+#### 1. Flutter_Bloc
+#### 2. Shimmer
+#### 3. Dio
+#### 4. Intl
+#### 5. Google_fonts
